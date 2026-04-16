@@ -1,30 +1,43 @@
 # Alex Martinez
 
-IT Support Engineer → Application Support & Automation
+## IT Support Engineer → Automation & Application Support
 
-## 🚀 About Me
-IT Support Specialist with 5+ years of experience working with enterprise environments (Intune, Active Directory, Microsoft 365).
+I build Python-based automation tools and backend systems that simulate real-world IT operations.
 
-Currently focused on automation and backend systems using Python and APIs.
+---
 
-## 🧰 Tech Stack
-- Python
-- FastAPI
-- Microsoft Intune
-- Active Directory
-- REST APIs
-- ServiceNow / Jira
+## 💼 Experience Focus
 
-## 🔥 Featured Projects
+- Microsoft Intune / Autopilot deployments
+- Active Directory user lifecycle management
+- Enterprise IT support (L1/L2)
+- SLA-driven environments
+
+---
+
+## 🧰 Technical Skills
+
+Python • FastAPI • REST APIs • Microsoft 365 • Intune • AD • ServiceNow • Windows/macOS
+
+---
+
+## 🚀 Featured Projects
 
 ### 🧠 IT Automation Toolkit
-Automation scripts for user lifecycle, ticket analysis and log monitoring.
+Automation scripts for user lifecycle, ticket analysis, and system monitoring.
 
 ### 🌐 IT Support API
-REST API simulating real IT support operations (users, tickets, monitoring).
+REST API simulating enterprise IT systems (users, tickets, health checks).
+
+### 📰 News API Monitor
+Automation tool consuming real APIs and processing external data.
+
+---
 
 ## 🎯 Goal
-Transition into Application Support / Solutions Engineering roles.
+Transition into Application Support / Automation / Solutions Engineering roles.
 
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/alexmartineztech/
+---
+
+## 🌍 Languages
+Spanish (Native) • English (Fluent) • German (A2) • French (A2)
