@@ -1,37 +1,44 @@
-# Alex Martinez
+# Alexander Pineda Martinez
 
-## Service Assurance Engineer | Identity & Access (IAM) | Azure | Entra ID | Intune | Zero Trust | ITIL | Critical Incident Management | Enterprise IT | Building toward Cloud Security | Open to Global Opportunities
-I build Python-based automation tools and backend systems that simulate real-world IT operations.
+Service Assurance Engineer building toward **Identity & Access Security** — on top of 3 years running IAM, endpoint identity and critical incident response inside regulated, global enterprise environments.
 
----
+- Currently: **Service Assurance Engineer @ Claranet** — 24/7 critical operations, major incident coordination, DORA/FCA/PRA compliance
+- Previously: **3 years @ Sanofi (Tier 2)** — Entra ID, Intune, Autopilot, IAM for 500+ users
+- Building toward: **SC-900 → AZ-500 → SC-300**, with a hands-on lab documented alongside each one
 
-## 💼 Top Skills
-
--Identity & Access Management (IAM)
--Microsoft Entra ID
--Microsoft Intune
--Conditional Access / MFA
--Zero Trust Fundamentals
--Critical Incident Management
--Azure
--Microsoft 365 Administration
--ITIL Service Management
--Continuous Improvement
+📍 Barcelona, Spain · [Portfolio](https://alexmartineztech.dev) · [LinkedIn](https://www.linkedin.com/in/alexmartineztech) · [Blog](https://alexmartineztech.wordpress.com/)
 
 ---
 
-## 🚀 Featured Projects
+## What I work with
 
-### 🧠 IT Automation Toolkit
-Automation scripts for user lifecycle, ticket analysis, and system monitoring.
+```text
+Identity & Access     Entra ID · IAM · Conditional Access · MFA · Zero Trust Fundamentals
+Cloud & Endpoint       Microsoft Azure · Intune · Autopilot · Windows Enterprise
+Operations             ITIL · Major Incident Management · Root Cause Analysis · SLA/KPI
+Enterprise Support     Microsoft 365 · ServiceNow · VIP Support
+Learning now           SC-900 (in progress) · AZ-500 · SC-300 · Python for automation
+```
 
-### 🌐 IT Support API
-REST API simulating enterprise IT systems (users, tickets, health checks).
+## Projects
 
-### 📰 News API Monitor
-Automation tool consuming real APIs and processing external data.
+| Project | Status | Focus |
+|---|---|---|
+| [Entra ID Zero Trust Lab](#) | 🟡 In progress | Conditional Access, MFA, PIM, Zero Trust baseline on a free-tier tenant |
+| [Major Incident Playbook — Identity Cases](#) | 🟡 In progress | Sanitized incident response playbook for access/auth failures |
+| AZ-500 Capstone: Securing a Small Azure Environment | ⚪ Planned | Network security, Key Vault, logging, Defender |
+
+Each project is documented as it's built not claimed in advance. Write-ups get linked here and on my [portfolio](https://alexmartineztech.dev) as they're finished.
+
+## Certifications
+
+- 🟡 SC-900 — Security, Compliance & Identity Fundamentals (in progress)
+- ⚪ AZ-500 — Azure Security Engineer Associate (planned)
+- ⚪ SC-300 — Identity and Access Administrator (planned)
+- ✅ Fundamentals of Cybersecurity
+- ✅ IT Service Desk: Service Management
+- ✅ Learning ServiceNow (Next Experience UI)
 
 ---
 
-## 🌍 Languages
-Spanish (Native) • English (Fluent) • German (A2) • French (A2)
+📫 Reach me at **cubalex1992@gmail.com** — open to conversations on Identity & Access Security, Azure and Enterprise IT.
